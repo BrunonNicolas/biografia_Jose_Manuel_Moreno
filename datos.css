@@ -1,0 +1,12 @@
+*{
+    background-color:white; 
+    color:darkblue;
+    text-align: center;
+    font-style: oblique;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ; 
+}
+
+#imgpoli{
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px gray;
+}

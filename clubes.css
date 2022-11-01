@@ -1,5 +1,5 @@
 *{
-    background-color:darkblue; 
+    background-color:black; 
     color:white;
     text-align: center;
     font-style: oblique;
@@ -44,4 +44,5 @@ h2{
     display:inline-block;
     margin-left: 30%;
     margin-block-start: 3%;
+
 }

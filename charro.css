@@ -1,0 +1,16 @@
+.card{
+    text-align: center;
+    display: block;
+    margin:auto;
+}
+*{
+    background-color:darkblue;
+    color: white;
+   font-style: oblique;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ; 
+   text-align: center;
+}
+
+#carta{
+    background-color: darkblue!important;
+}
