@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     background-color:black; 
     color:white;
@@ -45,54 +44,4 @@ h2{
     display:inline-block;
     margin-left: 30%;
     margin-block-start: 3%;
-
-=======
-*{
-    background-color:black; 
-    color:white;
-    text-align: center;
-    font-style: oblique;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ; 
-}
-
-#imgPerfil {  
-    width: 200px;
-    height: 250px; ;
-    border-radius: 10%;
-    border:solid 5px;
-    border-color: whitesmoke;
-   
-}
-
-.titulos{
-    font-size: 200%;
-    font-style: italic;
-
-}  
-h2{
-    font-size: 300%;
-}
-
-#biografia{
-    width: 60vw;
-    text-align: center;
-    margin-left: 20%;
-}
-
-.divI nline{
-    display: block;
-}
-
-#filmografia{
-    display:unset;
-}
-
-#river{
-    height: 600px!important;
-    width: 600px!important;
-    display:inline-block;
-    margin-left: 30%;
-    margin-block-start: 3%;
-
->>>>>>> 53f82f6f26536e219905d8306614915cd5ce484f
 }
